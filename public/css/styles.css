@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.columnas {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 80px;
+}
