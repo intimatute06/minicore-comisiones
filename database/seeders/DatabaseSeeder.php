@@ -13,8 +13,8 @@ class DatabaseSeeder extends Seeder
     {
         ReglaComision::create(['monto_minimo'=>0, 'tasa'=>0]);
         ReglaComision::create(['monto_minimo'=>500, 'tasa'=>5]);
-        ReglaComision::create(['monto_minimo'=>1000, 'tasa'=>8]);
-        ReglaComision::create(['monto_minimo'=>2000, 'tasa'=>10]);
+        ReglaComision::create(['monto_minimo'=>1000, 'tasa'=>10]);
+        ReglaComision::create(['monto_minimo'=>2000, 'tasa'=>20]);
 
         $juan = Vendedor::create(['nombre'=>'Juan Narvaez','correo'=>'juan@vendedor.com']);
         $nicolas = Vendedor::create(['nombre'=>'Nicolas Cazares','correo'=>'nico@vendedor.com']);
