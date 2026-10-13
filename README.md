@@ -4,7 +4,7 @@ Aplicación web en **Laravel 12** que calcula las comisiones de los vendedores s
 
 ## Demo
 - **App en línea:** https://minicore-comisiones-qass.onrender.com/
-- **Video explicativo:** (pendiente)
+- **Video explicativo:** [(https://youtu.be/ITTEhDYftWc)]
 
 ## Cómo funciona
 1. El usuario elige una fecha de inicio y una de fin.
